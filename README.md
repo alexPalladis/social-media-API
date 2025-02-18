@@ -72,7 +72,6 @@ Connected to DB and Server listening on port 5000...
 
 ## 🔹 API endpoints
 
-### ✅ API Endpoints
 
 - **POST /api/users/signup** - Creates a new user.
 - **POST /api/users/login** - Logs in the user.
